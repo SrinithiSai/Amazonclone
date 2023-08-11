@@ -1,1 +1,1 @@
-Towards te begining of the full stack journey i wanted to create a project which would give me exposure to newer functioanlities and as well as to new frame woks in Web Developnt.So here is a clone of the amazon website created using html,css,js and bootstrap.
+Towards the begining of my full stack journey I wanted to create a project which would give me exposure to newer functioanlities and as well as to new frame woks in Web Developement.So here is a clone of the amazon website created using html,css,js and bootstrap.
